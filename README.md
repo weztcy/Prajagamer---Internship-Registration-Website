@@ -6,7 +6,7 @@ The platform is designed to streamline the internship registration process at **
 
 ## 📝 About the Project
 
-Prajagamer was developed as a self-registration platform for internship applicants................
+Prajagamer was developed as a self-registration platform for internship applicants.
 
 The system allows prospective participants to submit their internship registration online, while participant information can be managed through a structured application workflow.
 
